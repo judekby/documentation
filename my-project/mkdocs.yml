@@ -1,0 +1,7 @@
+site_name: My Doc
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
