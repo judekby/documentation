@@ -1,7 +1,15 @@
-site_name: My Doc
+site_name: Safari Documentation
 theme:
   name: readthedocs
   highlightjs: true
   hljs_languages:
     - yaml
     - rust
+
+nav:
+  - Summary: 1.presentationDocument.md
+  - Configuration: 2.configuration.md
+  - Decouverte animaux: 3.Découverteanimaux.md
+  - Safari Explorer: 4.explorerSafari.md
+  - Animal Feeding: 5.nourirAnimaux.md
+  - Learning: 6.apprentisage.md
