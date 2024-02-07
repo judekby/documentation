@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://safarigodocumentation.com/1.presentationDocument/</loc>
+         <lastmod>2024-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://safarigodocumentation.com/2.configuration/</loc>
+         <lastmod>2024-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://safarigodocumentation.com/3.D%C3%A9couverteanimaux/</loc>
+         <lastmod>2024-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://safarigodocumentation.com/4.explorerSafari/</loc>
+         <lastmod>2024-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://safarigodocumentation.com/5.nourirAnimaux/</loc>
+         <lastmod>2024-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://safarigodocumentation.com/6.apprentisage/</loc>
+         <lastmod>2024-02-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>

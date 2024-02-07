@@ -1,15 +1,20 @@
 site_name: Safari Documentation
+site_url : https://safarigodocumentation.com/
+
 theme:
-  name: readthedocs
+  name: material
+  palette:
+    primary: green
+    accent: teal
   highlightjs: true
   hljs_languages:
     - yaml
     - rust
 
 nav:
-  - Summary: 1.presentationDocument.md
+  - Sommaire: 1.presentationDocument.md
   - Configuration: 2.configuration.md
   - Decouverte animaux: 3.Découverteanimaux.md
   - Safari Explorer: 4.explorerSafari.md
-  - Animal Feeding: 5.nourirAnimaux.md
-  - Learning: 6.apprentisage.md
+  - Nourir animaux: 5.nourirAnimaux.md
+  - Apprendre: 6.apprentisage.md
